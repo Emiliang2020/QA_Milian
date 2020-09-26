@@ -1,0 +1,117 @@
+.h1_style{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-size:  x-large;
+	color: RED;
+}
+
+.input_style{
+	border-radius: 15px;
+	width: 275px;
+	height: 35px;
+	size:75;
+}
+
+.body_style{
+	background-image: url("./Imagenes/fondo2.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.caja1{
+    background-image: url("./Imagenes/podio_iluminadojpg.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+ }
+
+.caja2{
+    background-image: url("./Imagenes/fondo3.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+ } 
+
+.caja3{
+    background-image: url("./Imagenes/burbuja.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+ } 
+
+
+.label_style{
+	color: white;
+	font-family: sans-serif;
+}
+
+.label_styles{
+    color: black;
+	font-family: sans-serif;
+        }
+
+.submit_style {
+	border-radius: 7px;
+	color: rgba(255, 255, 255, 0.9) !important;
+	font-size: 20px;
+	font-weight: 500;
+	padding: 0.5em 1.2em;
+	background: #318aac;
+	border: 2px solid;
+	border-color: #318aac;
+	position: relative;
+}
+
+.submit_style:hover {
+	color: rgba(255, 255, 255, 1) !important;
+	box-shadow: 0 4px 16px rgba(49, 138, 172, 1);
+	transition: all 0.2s ease;
+}
+
+.table_style{
+	background-color: #33FF82;
+	border-radius: 15px;
+	border: 2px solid;
+}
+
+
+.boton3 {
+  color: #318aac !important;
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0.5em 1.2em;
+  background: rgba(0,0,0,0);
+  border: 2px solid;
+  border-color: #181907;
+  transition: all 1s ease;
+  position: relative;
+  border-radius: 7px;
+}
+
+.boton3:hover {
+  background: #FE2E64;
+  color: #2EFE2E !important;
+  transform: scale(1.25);
+}
+
+.img_style{
+	width: 150px;
+	height: 350px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	transition: all 1s ease;
+}
+
+.img_style:hover {
+	transform: scale(1.12);
+}
+
+
+.heading { color: red; }
+
+
+.col{color: #13D8C5;}
+
+.container{
+	background: initial ;
+	margin: auto;
+	padding: 20px 50px;
+	border: 1
+	border-color: black;}
